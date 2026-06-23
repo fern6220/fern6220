@@ -14,7 +14,7 @@
 
 About Me
 
--  **Currently focusing on:** exploring Web Development, APP Development, Programming, Information Technology Solutions, and refining my personal portfolio.
+-  **Currently focusing on:** exploring Web Development, APP Development, Programming, Information System Solutions, and refining my personal portfolio.
 -  **Currently learning:** advanced web and mobile application development, programming fundamentals, database management, and intforation systems development to create efficient and innovative digital solutions.
 -  **Open to:** collaborations, feedback, and opportunities to grow my skills in web development, app development, programming, and systems development.
 -  **Fun fact:** I started sharing my projects on GitHub in 2026 and regularly push improvements to my code!
